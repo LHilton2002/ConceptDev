@@ -1,0 +1,6 @@
+Controls
+
+left mouse click = jump
+
+instructions 
+jump through the asteroids to score
